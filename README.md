@@ -15,7 +15,7 @@ PS.采集物参考
 
 [【空荧酒馆】采集物品图片整合贴](https://bbs.mihoyo.com/ys/article/1339175)
 
-![演示]（https://upload-bbs.mihoyo.com/upload/2020/06/24/5284717/c41245fd1310d07c827bd3d51064d397_4479275337025470204.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg）
+![演示](https://upload-bbs.mihoyo.com/upload/2020/06/24/5284717/c41245fd1310d07c827bd3d51064d397_4479275337025470204.jpg?x-oss-process=image/resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 
 制作：A8
 
